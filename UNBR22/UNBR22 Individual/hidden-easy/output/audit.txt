@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun May  8 05:41:13 2022
+Invocation: foremost -v fixed.png 
+Output directory: /mnt/c/Users/lmg/Desktop/UNBR22 Individual/hidden-easy/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: fixed.png
+Start: Sun May  8 05:41:13 2022
+Length: 10 KB (10967 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      10 KB 	          0 	  (2350 x 1250)
+Finish: Sun May  8 05:41:13 2022
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun May  8 05:41:13 2022
